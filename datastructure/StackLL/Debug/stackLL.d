@@ -1,0 +1,1 @@
+stackLL.d: ../stackLL.c

@@ -1,0 +1,1 @@
+stackArray.d: ../stackArray.c
